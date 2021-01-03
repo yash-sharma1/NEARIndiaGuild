@@ -244,7 +244,7 @@
 240. ​[Ethereum](https://ethereum.org/) \(combines currency and a programming language\), _Ethereum.org_: Ethereum’s programming language, Solidity, is used for creating smart contracts
 241. ​[What Is Bitcoin?](https://blockgeeks.com/guides/what-is-bitcoin/), _Blockgeeks_: Explains how Bitcoin works
 242. ​[Cryptocurrency Comparisons](https://www.ig.com/uk/cryptocurrency-trading/cryptocurrency-comparison), _IG_: Describes competing currencies
-243. ​[Cryptocurrency 2018 \(Legal Issues\)](https://corpgov.law.harvard.edu/2018/02/08/cryptocurrency-2018/), _Harvard Law School Forum on Corporate Governance and Financial Regulation_: Provides information about cryptocurriences and outlines current legal issues
+243. ​[Cryptocurrency 2018 \(Legal Issues\)](https://corpgov.law.harvard.edu/2018/02/08/cryptocurrency-2018/), _Harvard Law School Forum on Corporate Governance and Financial Regulation_: Provides information about cryptocurrencies and outlines current legal issues
 244. ​[A Beginner’s Guide to Smart Contracts](https://blockgeeks.com/guides/smart-contracts/), BlockGeeks: A detailed and visual guide to smart contracts
 245. Blockchain 101 for Lawyers, [Part 1,](http://www.lawtechnologytoday.org/2017/01/blockchain-101-for-lawyers-part-1/) [Part 2,](http://www.lawtechnologytoday.org/2017/01/blockchain-lawyers-101-part-2/) Law Technology Today: An introduction to the legal aspects of blockchain and what legal services might be affected.
 246. ​[Build Your First Smart Contract](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca), _Crypto Currently:_ Ready to try programming a contract yourself? This tutorial provides the resources.
