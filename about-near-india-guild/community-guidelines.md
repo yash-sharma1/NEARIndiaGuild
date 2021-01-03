@@ -27,7 +27,7 @@ Culture is the sum of all the subtle and not-so-subtle things a community does d
 \*\*\*\*📌 **Guidelines**  
 Culture is created over time by the actions of a group. These guidelines represent how we believe this culture becomes reality.
 
-**🟢 Please do:**
+✅**Please do:**
 
 * Treat others online as you would treat them in real life;
 * Be tolerant towards other’s viewpoints; respectfully disagree when opinions do not align;
@@ -35,7 +35,7 @@ Culture is created over time by the actions of a group. These guidelines represe
 * Communicate with courtesy and respect;
 * Provide accurate information, if you are not sure, please cross-check or contact someone from the Near team for support;
 
-**🔴 Please do not:**
+❌**Please do not:**
 
 * Make personal attacks on other community members;
 * Use defamatory remarks or make false statements against others;
@@ -44,13 +44,11 @@ Culture is created over time by the actions of a group. These guidelines represe
 * Bully or make inflammatory remarks to other community members;
 * Shill projects to the community or post spam; 
 * Begging, Asking for money or jobs, etc. 
-* Advertising 
-* Excessive Trolling
+* Post Advertisements and   Excessive Trolling
 * Deliberately disturbing voice chat
-* Political content 
-* Religious content 
-* Racial slur   & Sexual slur 
-* Anything against T.O.S.
+* Post Political and Religious content 
+* Post Racial slur   & Sexual slur 
+* Post Anything against ToS.
 
 📌 **Any other actions that cause problems will be dealt with as necessary**
 
