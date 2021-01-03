@@ -61,7 +61,7 @@ Culture is created over time by the actions of a group. These guidelines represe
 Culture is defined by the positive things members do and the negative things they actively prevent. For those channels where NEAR team members and contributors are present, we commit to the following. We strongly suggest that anyone associated with the project will do the same in whatever channels they control:
 
 1. Ban and report trolls and spammers. No warnings will be given.
-2. Have zero tolerance for assholes. We will try to de-escalate situations but if someone appears to have disregard for the community values above, they will be banned. The community's energy is better spent working collaboratively than defusing arguments all day.
+2. Have zero tolerance for people who don't follow community guidelines. We will try to de-escalate situations but if someone appears to have disregard for the community values above, they will be banned. The community's energy is better spent working collaboratively than defusing arguments all day.
 3. Direct people to existing answers. If you ask a basic question that is easy to Google or for which there is an answer written somewhere, you will be referred to those answers. Please don't take it personally, it is to help you learn and respect the community's time.
 
 📌 **Your Role**  
