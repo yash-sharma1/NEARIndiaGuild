@@ -17,5 +17,5 @@ We are building and managing the NEAR India Guild Community on [**Telegram**](ht
 
 > So, don't forget to join us on Telegram and follow us on Twitter 🥳
 
-📌Check out our [Community Guidelines](community-guidelines.md) and then explore Basic Blockchain and🌈 NEAR Resources. 
+📌Check out our [Community Guidelines](community-guidelines.md) and then explore Blockchain and🌈 NEAR Resources. 
 
