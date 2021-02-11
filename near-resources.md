@@ -20,10 +20,18 @@ The Team of NEAR India Guild created these resources to help you in understandin
 8. [Staking with NEAR - A brief overview](https://www.publish0x.com/theblockchainchick/staking-with-near-a-brief-overview-xvwerwk) by Gnana Lakshmi TC \(NEAR India Guild\)
 9. "How the NEAR Foundation is Supporting Network Decentralization" in Hindi by Sanket Sagar \(NEAR India Guild\) - [Click here](https://link.medium.com/Z1DGdzHSRbb)
 10. [Sneak Peak to Near Protocol](https://a4nkit.medium.com/sneak-peak-to-near-protocol-4a4233049666) by Ankit Raj
+11. Why NEAR is the most developer-friendly blockchain?" by Jitendra Naik. To read this article [Click Here](https://medium.com/coinmonks/why-near-is-the-most-developer-friendly-blockchain-72012d0ed68d)
+12. [Dragonfly Capital Joins NEAR Validator Advisory Board](https://near.org/blog/dragonfly-capital/) article translated in Hindi by Sanket Sagar. To read this article - [Click Here](https://medium.com/near-protocol-india/dragonfly-capital-near-validator-advisory-board-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B6%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%B2-%E0%A4%B9%E0%A5%8B-%E0%A4%97%E0%A4%88-21c67df8384d)
+13. [Getting Started With the NEAR Wallet](https://near.org/blog/getting-started-with-the-near-wallet/) article translated in Odia by Jitendra Naik. To read this article - [Click Here](https://medium.com/near-protocol-india/near-%E0%AD%B1%E0%AC%BE%E0%AC%B2%E0%AD%87%E0%AC%9F%E0%AD%8D-%E0%AC%B8%E0%AC%B9%E0%AC%BF%E0%AC%A4-%E0%AC%86%E0%AC%B0%E0%AC%AE%E0%AD%8D%E0%AC%AD-%E0%AC%95%E0%AC%B0%E0%AC%BF%E0%AC%AC%E0%AC%BE-70b1bc3ec514)
 
 ## Videos
 
 1. [NEAR Protocol - Building a suitable ecosystem for Indian developers](https://youtu.be/juENV2J9vCg) by Khushboo \(NEAR India Guild\)
 2. [Introduction to NightShade: NEAR Protocol](https://www.youtube.com/watch?v=Ep9FrXjJlk4&feature=youtu.be&ab_channel=GnanaLakshmiTC) by Gnana Lakshmi TC \(NEAR India Guild\)
 3. [NEAR Protocol - Staking Mechanism](https://youtu.be/fRmMFY_lVGg) by Kuen Shahi \(NEAR India Guild\)
+4. [Validating v/s Delegating in NEAR blockchain](https://youtu.be/b1NZWsO-yb0) in the Hindi language by Jitendra Naik \(NEAR India Guild\)
+5. [How to Earn Near Coin? How to Stake Near?](https://youtu.be/skQn_mdUUR0) by Vinoth Kumar \(NEAR India Guild \| TamilBTC\)
+6. [Open Invitation To NEAR Blockchain \(NEAR Webinar Odia Language\)](https://youtu.be/UmR56mu-JmY) by Jitendra Naik \(NEAR India Guild\)
+
+
 
